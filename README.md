@@ -1,5 +1,5 @@
 # GoogleAppsScript
-A script to add Google Apps to the local Mac
+A script to add Google Chrome Apps to the local Mac
 
 This script is designed to give Mac admins the ability to add Chrome apps to ~/Applications/Chrome Apps for users.
 
